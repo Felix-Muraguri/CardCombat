@@ -1,0 +1,155 @@
+    1  [200~
+    2  [path]/etc/gitconfig
+    3  git config
+    4  [path]/etc/gitconfig -- system
+    5  $ git config --global user.name
+    6  $ git config --global user.name F371X
+    7  $ git config --global user.name "F371X"
+    8  [200~git config --list --show-origin~
+    9  git config --list --show-origin
+   10  git config --global user.name F371X
+   11  git config --global user.email felixmuraguri@gmail.com
+   12  git xonfig --global core.editor vi
+   13  git config --global core.editor vi
+   14  git config --global init.defaultBranch main
+   15  git config --list
+   16  git config user.name
+   17  vi UI.cs
+   18  git log
+   19  git status
+   20  git show
+   21  cls
+   22  clear
+   23  git init
+   24  ls
+   25* 
+   26  git add .
+   27  git commit - m 'Snake'
+   28  git status
+   29  rm --cached  Module 5 - Felix Muraguri (Kenya).zip
+   30  git rm --cached 'Module 5 - Felix Muraguri (Kenya).zip'
+   31  git status
+   32  git status --short
+   33  gt commit -m 'Snake'
+   34  git commit -m 'Snake'
+   35  git push
+   36  ls
+   37  cd ..
+   38  ls
+   39  ssh-keygen
+   40  ls
+   41  cd Desktop.pub
+   42  vi Desktop.pub
+   43  ls
+   44  pwd
+   45  file Desktop
+   46  pwd
+   47  explorer .
+   48  git config core.sshCommand "ssh -i C:\Users\Felix\Desktop\Game Dev\Desktop" 
+   49  ls
+   50  cd Snake/
+   51  git config core.sshCommand "ssh -i C:\Users\Felix\Desktop\Game Dev\Desktop" 
+   52  git remote add origin git@github.com:Felix-Muraguri/GameTests/git
+   53  ls
+   54  git remote add origin git@github.com:Felix-Muraguri/GameTests.git
+   55  wait..
+   56  git remote remove origin
+   57  git remote add origin git@github.com:Felix-Muraguri/GameTests.git 
+   58  git push --set upstream origin main
+   59  git push --set-upstream origin main
+   60  git config core.sshCommand "ssh -i 'C:\Users\Felix\Desktop\Game Dev\Desktop'" 
+   61  git push --set-upstream origin main
+   62  Armor218
+   63  git pull
+   64  git log
+   65  git status
+   66  ls
+   67  git push
+   68  git push --set-upstream origin main
+   69  ls
+   70  git log
+   71  git show
+   72  git push --set-upstream origin main -f
+   73  cd ..
+   74  ls
+   75  cd Merlin's Demon War
+
+
+
+
+
+clear
+   76  lear
+   77  clc
+   78  clear
+   79  ls
+   80  cd 'Merlin's Demon War'
+
+   81  clear
+   82  cd "Merlin's Demon War"/
+   83  ls
+   84  git add .
+   85  git rm --cached "Module 3 - Art.zip"
+   86  LS 
+   87  ls
+   88  clear
+   89  ls
+   90  git rm --cached " '⬇️ Module 3 - Art.zip'
+"
+   91  git add .
+   92  git commit -m "Merlin??"
+   93  git push
+   94  echo "# CardCombat" >> README.md
+   95  git init
+   96  git add README.md
+   97  git commit -m "first commit"
+   98  git branch -M main
+   99  git remote add origin https://github.com/Felix-Muraguri/CardCombat.git
+  100  git push -u origin main
+  101  ls
+  102  git status
+  103  git remote add origin https://github.com/Felix-Muraguri/CardCombat.git
+  104  git remote get-url origin
+  105  git remote remove origin origin 
+  106  git remote remove origin 
+  107  git remote add origin git@github.com:Felix-Muraguri/CardCombat.git
+  108  ls
+  109  git push -u origin main
+  110  git config core.sshCommand "ssh -i 'C:\Users\Felix\Desktop\Game Dev\Desktop'" 
+  111  git push -u origin main
+  112  git ls-files
+  113  git ls-files | du -h
+  114  git ls-files | du -h | sort -nr
+  115  ls
+  116  git ls-files | less
+  117  ls
+  118  cat .gitignore 
+  119  git ls-files
+  120  git ls-files | du -h > sizes.txt
+  121  git ls-files | du -h
+  122  ls
+  123  vim .gitignore 
+  124  git status
+  125  rm sizes.txt 
+  126  ls
+  127  git reset --soft HEAD
+  128  git log
+  129  git reset --soft HEAD~1
+  130  git log
+  131  git ls-files
+  132  git status
+  133  git reset --soft HEAD~1
+  134  git log
+  135  git ls-files
+  136* git 
+  137  git rm -r --cached .
+  138  g-s
+  139  git status
+  140  history | less
+  141  explorer ~
+  142  cat ~/.bash_history 
+  143  pwd
+  144  pwd
+  145  ls ~
+  146  cat ~/.bash_history 
+  147  history > cmds.txt
